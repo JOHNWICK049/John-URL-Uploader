@@ -4,7 +4,8 @@ This is a Telegram URL Upload Bot!
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
-/help for more details..
+Send /help for more details..
+     /upgrade your subscription..
 
 Support : I ❤ MOVIES"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -17,31 +18,31 @@ Filesize limit: 0 MB
 Daily limit: UNLIMITED
 Price 🇮🇳: ₹ 0/Month
 FEATURES:
-👉 <a href="https://t.me/SpEcHlDe/608">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html, except HLS videos!</a>
-👉 <a href="https://t.me/SpEcHlDe/611">Get High Speed Direct Download Link of any Telegram file</a>
-👉 <a href="https://t.me/SpEcHlDe/660">Get a Telegram sticker as a Telegram downloadable media</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html, except HLS videos!</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Get High Speed Direct Download Link of any Telegram file</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Get a Telegram sticker as a Telegram downloadable media</a>
 -------
 Plan: A
 Filesize limit: UNLIMITED
 Daily limit: UNLIMITED
 Price 🇮🇳: ₹ 97/Month
-<a href="https://p-y.tm/Y-NCRdB">Pay Via PayTM</a>
+<a href="https://t.me/I4Movies_Payments8388_bot">Pay Via PayU</a>
 FEATURES:
-👉 <a href="https://t.me/SpEcHlDe/608">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html, except HLS videos!</a>
-👉 <a href="https://t.me/SpEcHlDe/611">Get High Speed Direct Download Link of any Telegram file</a>
-👉 <a href="https://t.me/SpEcHlDe/660">Get a Telegram sticker as a Telegram downloadable media</a>
-👉 <a href="https://t.me/SpEcHlDe/609">Upload as file from any HTTP link, with custom thumbnail support</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html, except HLS videos!</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Get High Speed Direct Download Link of any Telegram file</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Get a Telegram sticker as a Telegram downloadable media</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Upload as file from any HTTP link, with custom thumbnail support</a>
 -------
 Plan: B
 Filesize limit: 1.5GB
 Daily limit: UNLIMITED
 Price 🇮🇳: ₹ 127/Month
-<a href="https://p-y.tm/i-h6RdB">Pay Via PayTM</a>
+<a href="https://t.me/I4Movies_Payments8388_bot">Pay Via PayU</a>
 FEATURES:
-👉 <a href="https://t.me/SpEcHlDe/608">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html!</a>
-👉 <a href="https://t.me/SpEcHlDe/611">Get High Speed Direct Download Link of any Telegram file</a>
-👉 <a href="https://t.me/SpEcHlDe/660">Get a Telegram sticker as a Telegram downloadable media</a>
-👉 <a href="https://t.me/SpEcHlDe/609">Upload as file from any HTTP link, with custom thumbnail support</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html!</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Get High Speed Direct Download Link of any Telegram file</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Get a Telegram sticker as a Telegram downloadable media</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Upload as file from any HTTP link, with custom thumbnail support</a>
 👉 <a href="https://telegram.dog/AnyDLBot">Convert To Streamable Video, any Telegram file</a>
 👉 <a href="https://telegram.dog/AnyDLBot">Convert To Telegram Audio, the media sent as Telegram Documents</a>
 -------
@@ -49,35 +50,36 @@ Plan: C
 Filesize limit: 1.5GB
 Daily limit: UNLIMITED
 Price 🇮🇳: ₹ 314/Month
-<a href="https://p-y.tm/ub-p4Um">Pay Via PayTM</a>
+<a href="https://t.me/I4Movies_Payments8388_bot">Pay Via PayU</a>
 FEATURES:
-👉 <a href="https://t.me/SpEcHlDe/608">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html!</a>
-👉 <a href="https://t.me/SpEcHlDe/611">Get High Speed Direct Download Link of any Telegram file</a>
-👉 <a href="https://t.me/SpEcHlDe/660">Get a Telegram sticker as a Telegram downloadable media</a>
-👉 <a href="https://t.me/SpEcHlDe/609">Upload as file from any HTTP link, with custom thumbnail support</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html!</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Get High Speed Direct Download Link of any Telegram file</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Get a Telegram sticker as a Telegram downloadable media</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Upload as file from any HTTP link, with custom thumbnail support</a>
 👉 <a href="https://telegram.dog/AnyDLBot">Convert To Streamable Video, any Telegram file</a>
 👉 <a href="https://telegram.dog/AnyDLBot">Convert To Telegram Audio, the media sent as Telegram Documents</a>
-👉 <a href="https://t.me/SpEcHlDe/610">ReName Telegram files, with custom thumbnail support</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">ReName Telegram files, with custom thumbnail support</a>
 -------
 Plan: D
 Filesize limit: 1.5GB
 Daily limit: UNLIMITED
 Price 🇮🇳: ₹ 987/Month
-<a href="https://p-y.tm/WOF-alE">Pay Via PayTM</a>
+<a href="https://t.me/I4Movies_Payments8388_bot">Pay Via PayU</a>
 FEATURES:
-👉 <a href="https://t.me/SpEcHlDe/608">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html!</a>
-👉 <a href="https://t.me/SpEcHlDe/611">Get High Speed Direct Download Link of any Telegram file</a>
-👉 <a href="https://t.me/SpEcHlDe/660">Get a Telegram sticker as a Telegram downloadable media</a>
-👉 <a href="https://t.me/SpEcHlDe/625">Generate Custom Thumbnail by sending two photos in a Media Album</a>
-👉 <a href="https://t.me/SpEcHlDe/609">Upload as file from any HTTP link, with custom thumbnail support</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html!</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Get High Speed Direct Download Link of any Telegram file</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Get a Telegram sticker as a Telegram downloadable media</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Generate Custom Thumbnail by sending two photos in a Media Album</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Upload as file from any HTTP link, with custom thumbnail support</a>
 👉 <a href="https://telegram.dog/AnyDLBot">Convert To Streamable Video, any Telegram file</a>
 👉 <a href="https://telegram.dog/AnyDLBot">Convert To Telegram Audio, the media sent as Telegram Documents</a>
-👉 <a href="https://t.me/SpEcHlDe/610">ReName Telegram files, with custom thumbnail support</a>
-👉 <a href="https://t.me/SpEcHlDe/653">Trim large videos</a>, and <a href="https://t.me/SpEcHlDe/652">Take Screenshots</a> of Telegram media files.
-👉 <a href="https://t.me/SpEcHlDe/657">Extract compressed Telegram media</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">ReName Telegram files, with custom thumbnail support</a>
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Trim large videos</a>, and <a href="https://t.me/SpEcHlDe/652">Take Screenshots</a> of Telegram media files.
+👉 <a href="https://t.me/I4Movies_Payments8388_bot">Extract compressed Telegram media</a>
 👉 PLUS, all newly features that are going to be added in the feature*.
 -------
 NOTE: After payment you must take screenshot of receipt and send to anyone of the admins
+@I4Movies_Office8372_Bot"""
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
@@ -90,6 +92,8 @@ URL | filename | username | password"""
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : I ❤ MOVIES \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@I4Movies_Office8372_Bot</a>"
+    AUTH_USER_TEXT = "Free Cloned User."
+    AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: []. For Free Cloned User."
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
