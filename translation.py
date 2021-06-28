@@ -5,7 +5,7 @@ This is a Telegram URL Upload Bot!
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
 Send /help for more details..
-     /upgrade your subscription..
+      /upgrade your subscription..
 
 Support : I ❤ MOVIES"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -90,7 +90,7 @@ URL | filename | username | password"""
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : I ❤ MOVIES"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : I ❤ MOVIES \nUploaded in {} seconds."
-    NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
+    NOT_AUTH_USER_TEXT = "ERROR...\n<b>I ❤ MOVIES</b> said: {}. \nPlease /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@I4Movies_Office8372_Bot</a>"
     AUTH_USER_TEXT = "Free Cloned User."
     AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: []. For Free Cloned User."
@@ -121,6 +121,8 @@ Expires on: {}"""
 Send /me to know current plan details
 
 Support : I ❤ MOVIES"""
+    NOT_AUTH_ME_USER_TEXT = """Sorry You Have No👎 Plans.\nPlease /upgrade Your subscription"""
+   
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
